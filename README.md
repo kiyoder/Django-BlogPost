@@ -12,14 +12,7 @@ How To Run the Project
 
 1. Create/Open Django Project folder
 2. Download the file (Compressed/.zip)
-3. Extract file in your Django Projects Folder
-   
-   Project Structure should look like this:
-     Django Projects/
-       ├── YKJR_BlogProject/
-             ├── YKJR_BlogProject/
-             ├── YKJR_blog/
-   
+3. Extract file in your Django Projects Folder   
 5. Open YKJR_BlogProject folder
 6. Type "cmd" in the address bar of the File Explorer
 7. In the address bar, type "cmd" and click enter.
